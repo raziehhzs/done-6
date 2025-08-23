@@ -1,6 +1,6 @@
 import random
 
-class SmartGuessGame:
+ SmartGuessGame:
     def __init__(self, low=1, high=100):
         self.low = low
         self.high = high
