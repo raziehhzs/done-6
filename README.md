@@ -1,4 +1,4 @@
-import random
+import random>
 
  SmartGuessGame:
     def __init__(self, low=1, high=100):
